@@ -1,0 +1,31 @@
+{
+  "personnage": {
+    "nom": "Arthas",
+    "niveau": 10,
+    "classe": "Guerrier"
+  },
+  "inventaire": {
+    "emplacements": [null, null, null, null, null, null, null, null, null, null]
+  },
+  "objets": [
+    {
+      "nom": "Épée",
+      "type": "arme"
+    },
+    {
+      "nom": "Bouclier",
+      "type": "défense"
+    },
+    {
+      "nom": "Potion",
+      "type": "consommable",
+      "quantité_max": 10
+    },
+    {
+      "nom": "Coffre",
+      "type": "conteneur",
+      "contenu_max": 20,
+      "contenu": []
+    }
+  ]
+}
