@@ -20,6 +20,8 @@ dependencies {
     implementation 'org.json:json:20231013'
     implementation 'org.slf4j:slf4j-api:2.0.9'
     implementation 'org.slf4j:slf4j-nop:2.0.9'  // Désactive les logs MongoDB
+    implementation 'com.fasterxml.jackson.core:jackson-annotations:2.15.0'
+
 }
 
 test {
